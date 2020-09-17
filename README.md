@@ -1,5 +1,6 @@
 # Buyrela
-A Grocery Ordering Application 
+A Grocery Ordering Android Application also having a different Server side  Application consist of various 
+functionality including login with OTP , self made Search view , Realtime Database using Firebase , Notifications Channels , Google Maps SDK for Fetching the Users current Location .
 
 <img src = Screenshots/001.png width = "250" />    <img src = Screenshots/002.png width = "250" />
 <img src = Screenshots/003.jpg width = "250" />
